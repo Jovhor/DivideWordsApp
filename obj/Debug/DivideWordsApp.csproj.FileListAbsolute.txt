@@ -1,0 +1,7 @@
+C:\Users\miner\source\repos\DivideWordsApp\obj\Debug\DivideWordsApp.csproj.AssemblyReference.cache
+C:\Users\miner\source\repos\DivideWordsApp\obj\Debug\DivideWordsApp.csproj.CoreCompileInputs.cache
+C:\Users\miner\source\repos\DivideWordsApp\bin\Debug\DivideWordsApp.exe.config
+C:\Users\miner\source\repos\DivideWordsApp\bin\Debug\DivideWordsApp.exe
+C:\Users\miner\source\repos\DivideWordsApp\bin\Debug\DivideWordsApp.pdb
+C:\Users\miner\source\repos\DivideWordsApp\obj\Debug\DivideWordsApp.exe
+C:\Users\miner\source\repos\DivideWordsApp\obj\Debug\DivideWordsApp.pdb
